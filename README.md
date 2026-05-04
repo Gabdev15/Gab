@@ -76,11 +76,11 @@ gab = {
 
 ## 🤝 Let's Connect!
 
-I'm open to **collaborations** and **creative projects**. Feel free to reach out!
+I'm open to **collaborations** and **creative projects**. let's collab !
 
 [![Discord](https://img.shields.io/badge/💬_Discord_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gab_vsss)
 
-**Made with ❤️ and a lot of ☕**
+**Made with my ❤️ and not 🤖**
 
 [![](https://komarev.com/ghpvc/?username=GabVS15&icon=6&color=12)](https://visitcount.itsvg.in)
 
