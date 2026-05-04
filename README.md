@@ -82,6 +82,5 @@ I'm open to **collaborations** and **creative projects**. let's collab !
 
 **Made with my ❤️ and not 🤖**
 
-[![](https://komarev.com/ghpvc/?username=GabVS15&icon=6&color=12)](https://visitcount.itsvg.in)
 
 </div>
