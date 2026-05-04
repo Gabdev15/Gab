@@ -10,9 +10,9 @@ Passionate about Machine Learning and AI • Building projects from scratch or c
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Gabdev15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Gabdev15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gabdev15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GabVS15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Gabdev15&icon=6&color=12)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=GabVS15&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
